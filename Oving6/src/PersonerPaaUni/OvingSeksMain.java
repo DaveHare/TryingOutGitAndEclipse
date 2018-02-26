@@ -2,6 +2,8 @@ package PersonerPaaUni;
 
 import java.util.ArrayList;
 
+//dette er en endring
+
 public class OvingSeksMain {
 //	
 //	g) Lag en metode som tar inn en ArrayList<Person> og 
